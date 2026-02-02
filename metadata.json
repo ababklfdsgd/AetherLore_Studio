@@ -1,0 +1,5 @@
+{
+  "name": "AetherLore - World Building Studio",
+  "description": "A powerful, portable lorebook manager and editor inspired by NovelAI. Features local AI integration (KoboldCPP/LMStudio) and Cloud AI support for generating world-building entries.",
+  "requestFramePermissions": []
+}
